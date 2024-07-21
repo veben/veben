@@ -36,7 +36,11 @@ I thrive in challenging environments and enjoy learning new technologies and too
 
 ## ✍️ Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [.configurations](https://veben.github.io/configurations/)
+- [New theme](https://veben.github.io/new-theme/)
+- [Mario Bros game, deployed on Kubernetes cluster, managed by Kind, created with Terraform](https://veben.github.io/mario-tf-kind/)
+- [Setting Up Splunk Universal Forwarder with Docker](https://veben.github.io/splunk-uf/)
+- [Mario Bros game, deployed on Kubernetes cluster, managed by Civo, created with Terraform](https://veben.github.io/mario-tf-civo-k8s/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Where You Can Find Me
