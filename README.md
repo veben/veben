@@ -21,17 +21,17 @@ I thrive in challenging environments and enjoy learning new technologies and too
 
 ## 🎀 Certifications
 
-- Microsoft Certified: Azure Fundamentals, Microsoft
-- HashiCorp Certified: Terraform Associate (002), HashiCorp
-- CKA: Certified Kubernetes Administrator, The Linux Foundation
-- KCNA: Kubernetes and Cloud Native Associate, The Linux Foundation
-- CKAD: Certified Kubernetes Application Developer, The Linux Foundation
-- AWS Certified Security ‑ Specialty, Amazon Web Services (AWS)
-- AWS Certified Solutions Architect ‑ Professional, Amazon Web Services (AWS)
-- AWS Certified DevOps Engineer ‑ Professional, Amazon Web Services (AWS)
-- AWS Certified Solutions Architect ‑ Associate, Amazon Web Services (AWS)
-- AWS Certified Developer ‑ Associate, Amazon Web Services (AWS)
-- SAFe® Agilist, Scaled Agile, Inc. 32455092‑8735
+- Azure Fundamentals, Microsoft
+- Terraform Associate, HashiCorp
+- Certified Kubernetes Application Developer, The Linux Foundation
+- Certified Kubernetes Administrator, The Linux Foundation
+- Kubernetes and Cloud Native Associate, The Linux Foundation
+- Certified Security ‑ Specialty, Amazon Web Services (AWS)
+- Certified Solutions Architect ‑ Professional, Amazon Web Services (AWS)
+- Certified DevOps Engineer ‑ Professional, Amazon Web Services (AWS)
+- Certified Solutions Architect ‑ Associate, Amazon Web Services (AWS)
+- Certified Developer ‑ Associate, Amazon Web Services (AWS)
+- SAFe® Agilist, Scaled Agile, Inc.
 - Professional Scrum Master™ I (PSMI), Scrum.org
 - Professional Scrum Product Owner™ (PSPO), Scrum.org
 
